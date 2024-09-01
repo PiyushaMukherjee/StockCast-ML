@@ -11,5 +11,5 @@ Project Steps :-
 * Build a backtesting engine to more accurately measure accuracy
 * Improve the accuracy of the model
 
-Data
+#Data
 We'll download all of the data during the project, using the yfinance package.
